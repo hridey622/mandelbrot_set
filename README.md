@@ -6,7 +6,7 @@ The Mandelbrot set is the set of values of c in the complex plane for which the 
  
 ## C code to print Mandelbrot set 
 
-The code is in <span style="color:blue"> C language </span> . I have not used `c++  #include<complex.h> ` ,
+The code is in <span style="color:blue"> C language </span> . I have not used ```C++  #include<complex.h> ``` ,
 Since the check for **z<sub>n</sub> <= |2|** is done till z<sub>100000</sub> the progra runs a bit slow
 ### Calculation of **z**<sub> n </sub>is done in the function **set()** </span> 
 
