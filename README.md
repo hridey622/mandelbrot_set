@@ -2,7 +2,7 @@
 
 The Mandelbrot set is the set of values of c in the complex plane for which the orbit of the critical point z = 0 under iteration of the quadratic map
 
- **z**<sub>n+1<\sub>=(**z**<sub>n<\sub>)<sup>2<\sup> **+** **c**
+ **z**<sub>n+1<\sub> =  **z**<sub>n<\sub> <sup>2<\sup> **+** **c**
  
 ## C code to print Mandelbrot set 
 
