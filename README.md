@@ -13,4 +13,4 @@ Since the check for **z<sub>n</sub> <= |2|** is done till z<sub>100000</sub> the
 **<span style="color:green">set()</span>** has parameters i and j ,
 which are the real and  imagibnary part of complex no. **c** given in the above equation for z<sub>0</sub> = 0
 
-More specifically, a point **c** belongs to the Mandelbrot set if and only if z<sub>n<\sub> less tha equal to |2| for all n belongs **R**. In other words, the absolute value of of z<sub>n<\sub> is at or below 2 for a particular c then that c belongs to the Mandelbrot set, **M** , as if that absolute value exceeds 2, the sequence will escape to **infinity**.
+More specifically, a point **c** belongs to the Mandelbrot set if and only if z<sub>n<\sub> is less than equal to |2| for all n belongs **R**. In other words, the absolute value of of z<sub>n<\sub> is at or below 2 for a particular c then that c belongs to the Mandelbrot set, **M** , as if that absolute value exceeds 2, the sequence will escape to **infinity**.
